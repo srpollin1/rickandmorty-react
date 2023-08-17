@@ -1,5 +1,4 @@
 # Rick and Morty App
-## 🔗 https://rick-and-morty-react-24bd0.web.app/
 Sumérgete en el universo caótico de Rick and Morty con esta emocionante aplicación desarrollada utilizando React y Vite. Conectada a las APIs de https://reqres.in/ y https://rickandmortyapi.com/, esta experiencia interactiva te permite explorar personajes, episodios y lugares icónicos de la serie animada. ¡Únete a las aventuras de tus personajes favoritos mientras navegas a través de la galaxia y descubres nuevos mundos!
 
 ## Login and register: 🔑
