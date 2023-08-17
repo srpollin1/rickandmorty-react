@@ -1,0 +1,14 @@
+.overlay-button {
+    position: fixed;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.register{
+    list-style-type: none;
+}
+
+.login{
+    list-style-type: none;
+}
