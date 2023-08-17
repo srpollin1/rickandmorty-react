@@ -1,6 +1,10 @@
 # Rick and Morty App
 Sumérgete en el universo caótico de Rick and Morty con esta emocionante aplicación desarrollada utilizando React y Vite. Conectada a las APIs de https://reqres.in/ y https://rickandmortyapi.com/, esta experiencia interactiva te permite explorar personajes, episodios y lugares icónicos de la serie animada. ¡Únete a las aventuras de tus personajes favoritos mientras navegas a través de la galaxia y descubres nuevos mundos!
 
+![Imagen de muestra del proyecto](https://github.com/srpollin1/rickandmorty-react/blob/main/1.png)
+![Imagen de muestra del proyecto](https://github.com/srpollin1/rickandmorty-react/blob/main/2.png)
+![Imagen de muestra del proyecto](https://github.com/srpollin1/rickandmorty-react/blob/main/3.png)
+
 ## Login and register: 🔑
 ```bash
 Email: janet.weaver@reqres.in
